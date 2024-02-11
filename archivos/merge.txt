@@ -1,0 +1,1 @@
+Ahora fue posible realizar el commit ya que se encontraba un archivo dentro de la carpeta
