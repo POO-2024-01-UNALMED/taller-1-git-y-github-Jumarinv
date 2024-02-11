@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 Juan Camilo Marin Valencia
 19
 Aprender POO
-=======
-Ahora fue posible realizar el commit ya que se encontraba un archivo dentro de la carpeta
->>>>>>> 9a7ea3c63b41499b026469a0f80c24590fd90bfe
